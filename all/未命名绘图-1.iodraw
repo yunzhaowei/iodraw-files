@@ -54,9 +54,6 @@
         <mxCell id="nI5Y4H3q-duIK1lDtcgL-22" value="&lt;div&gt;OpenGL上下文&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="200" y="565" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nI5Y4H3q-duIK1lDtcgL-23" value="&lt;div id=&quot;breadcrumb-section&quot;&gt;&lt;ol id=&quot;breadcrumbs&quot;&gt;&lt;li value=&quot;6&quot;&gt;&lt;span class=&quot;&quot;&gt;&lt;a href=&quot;https://wiki.quanshi.com/pages/viewpage.action?pageId=104293276&amp;amp;src=breadcrumbs-parent&quot;&gt;cloud-converter&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="200" y="510" width="160" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="nI5Y4H3q-duIK1lDtcgL-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nI5Y4H3q-duIK1lDtcgL-25" target="nI5Y4H3q-duIK1lDtcgL-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
