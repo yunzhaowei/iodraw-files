@@ -42,7 +42,7 @@
             <mxPoint x="370" y="420" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nI5Y4H3q-duIK1lDtcgL-17" value="&lt;div&gt;Wayland窗口&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="nI5Y4H3q-duIK1lDtcgL-17" value="&lt;div&gt;thrift&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="740" y="650" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nI5Y4H3q-duIK1lDtcgL-18" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;X11窗口&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
