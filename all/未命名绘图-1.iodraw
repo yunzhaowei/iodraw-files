@@ -45,8 +45,8 @@
         <mxCell id="nI5Y4H3q-duIK1lDtcgL-17" value="&lt;div&gt;thrift client(ip:port)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="190" y="885" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nI5Y4H3q-duIK1lDtcgL-18" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;X11窗口&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="200" y="450" width="160" height="40" as="geometry" />
+        <mxCell id="nI5Y4H3q-duIK1lDtcgL-18" value="cloud-converter" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="810" y="790" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nI5Y4H3q-duIK1lDtcgL-21" value="connect pool" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="180" y="810" width="170" height="30" as="geometry" />
