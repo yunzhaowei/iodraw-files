@@ -184,7 +184,7 @@
         </mxCell>
         <mxCell id="WG0FP-cM06WGUd5yMOQC-7" value="创建、开始推流" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WG0FP-cM06WGUd5yMOQC-6">
           <mxGeometry x="-0.419" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="17" y="-43" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
