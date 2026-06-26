@@ -56,7 +56,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uTGRWmH2HDZThDK5jOEu-1" value="&lt;b&gt;supv-task&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-800" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="-800" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uTGRWmH2HDZThDK5jOEu-2" value="&lt;b&gt;conf-1&lt;br&gt;cloud-attendee-converter&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1330" y="655" width="160" height="60" as="geometry" />
@@ -114,7 +114,7 @@
         </mxCell>
         <mxCell id="uTGRWmH2HDZThDK5jOEu-29" value="http post" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uTGRWmH2HDZThDK5jOEu-28">
           <mxGeometry x="0.2493" relative="1" as="geometry">
-            <mxPoint x="-11" y="-34" as="offset" />
+            <mxPoint x="79" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
