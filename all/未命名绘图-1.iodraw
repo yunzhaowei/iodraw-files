@@ -83,7 +83,7 @@
         <mxCell id="uTGRWmH2HDZThDK5jOEu-10" value="start/stop/callback" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-660" y="400" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uTGRWmH2HDZThDK5jOEu-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="uTGRWmH2HDZThDK5jOEu-12" value="Thirt party" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-429" y="120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uTGRWmH2HDZThDK5jOEu-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.82;entryY=1.053;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uTGRWmH2HDZThDK5jOEu-4" target="uTGRWmH2HDZThDK5jOEu-3">
@@ -114,7 +114,7 @@
         </mxCell>
         <mxCell id="uTGRWmH2HDZThDK5jOEu-26" value="http post&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uTGRWmH2HDZThDK5jOEu-25">
           <mxGeometry x="0.1805" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="9" y="-20" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
