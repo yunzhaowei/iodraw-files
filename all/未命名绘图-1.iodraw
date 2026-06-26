@@ -112,7 +112,7 @@
           <mxGeometry x="-830" y="100" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uTGRWmH2HDZThDK5jOEu-27" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1130" y="200" width="30" height="60" as="geometry" />
+          <mxGeometry x="-1130" y="120" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uTGRWmH2HDZThDK5jOEu-33" value="start/stop" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-800.0033333333334" y="480" as="geometry" />
