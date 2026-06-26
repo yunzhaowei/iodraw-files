@@ -101,9 +101,9 @@
         <mxCell id="uTGRWmH2HDZThDK5jOEu-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uTGRWmH2HDZThDK5jOEu-20" target="uTGRWmH2HDZThDK5jOEu-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uTGRWmH2HDZThDK5jOEu-24" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uTGRWmH2HDZThDK5jOEu-21">
+        <mxCell id="uTGRWmH2HDZThDK5jOEu-24" value="http post" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uTGRWmH2HDZThDK5jOEu-21">
           <mxGeometry x="-0.5864" y="4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uTGRWmH2HDZThDK5jOEu-20" value="&lt;strong class=&quot;&quot; data-v-46d91a25=&quot;&quot;&gt;REST API Server&lt;/strong&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
