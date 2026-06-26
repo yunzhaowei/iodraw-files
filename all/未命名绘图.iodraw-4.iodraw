@@ -96,9 +96,6 @@
         <mxCell id="77e6c97f196da883-3" value="WebSocket Server" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="160" y="20" width="160" height="730" as="geometry" />
         </mxCell>
-        <mxCell id="77e6c97f196da883-11" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-3" vertex="1">
-          <mxGeometry x="30" y="65" width="100" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="77e6c97f196da883-4" value="REST API Server" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="320" y="20" width="180" height="730" as="geometry" />
         </mxCell>
@@ -113,6 +110,9 @@
         </mxCell>
         <mxCell id="77e6c97f196da883-29" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8" parent="77e6c97f196da883-4" source="77e6c97f196da883-12" target="77e6c97f196da883-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="77e6c97f196da883-11" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-4" vertex="1">
+          <mxGeometry x="40" y="65" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-5" value="supv-task" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="500" y="20" width="160" height="730" as="geometry" />
