@@ -120,8 +120,13 @@
         <mxCell id="uTGRWmH2HDZThDK5jOEu-37" value="push audio data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1115.0033333333336" y="490" as="geometry" />
         </mxCell>
-        <mxCell id="uTGRWmH2HDZThDK5jOEu-41" style="edgeStyle=isometricEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.107;entryY=0.635;entryDx=0;entryDy=0;entryPerimeter=0;elbow=vertical;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uTGRWmH2HDZThDK5jOEu-27" target="uTGRWmH2HDZThDK5jOEu-20">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="uTGRWmH2HDZThDK5jOEu-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.107;entryY=0.635;entryDx=0;entryDy=0;entryPerimeter=0;elbow=vertical;curved=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uTGRWmH2HDZThDK5jOEu-27" target="uTGRWmH2HDZThDK5jOEu-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1020" y="237" />
+              <mxPoint x="-1020" y="151" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="uTGRWmH2HDZThDK5jOEu-42" value="http post&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uTGRWmH2HDZThDK5jOEu-41">
           <mxGeometry x="-0.1359" y="2" relative="1" as="geometry">
