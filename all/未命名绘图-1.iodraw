@@ -63,7 +63,7 @@
         <mxCell id="uTGRWmH2HDZThDK5jOEu-1" value="&lt;b&gt;supv-task&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-800" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uTGRWmH2HDZThDK5jOEu-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uTGRWmH2HDZThDK5jOEu-2">
+        <mxCell id="uTGRWmH2HDZThDK5jOEu-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.409;entryY=1.036;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uTGRWmH2HDZThDK5jOEu-2" target="uTGRWmH2HDZThDK5jOEu-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1230" y="330" as="targetPoint" />
           </mxGeometry>
@@ -72,7 +72,7 @@
           <mxGeometry x="-1030" y="470" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uTGRWmH2HDZThDK5jOEu-3" value="&lt;strong class=&quot;&quot; data-v-46d91a25=&quot;&quot;&gt;WebSocket Server&lt;/strong&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1390" y="50" width="230" height="60" as="geometry" />
+          <mxGeometry x="-1410" y="140" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uTGRWmH2HDZThDK5jOEu-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uTGRWmH2HDZThDK5jOEu-4" target="uTGRWmH2HDZThDK5jOEu-3">
           <mxGeometry relative="1" as="geometry" />
