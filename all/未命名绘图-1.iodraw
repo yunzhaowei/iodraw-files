@@ -109,6 +109,9 @@
             <mxPoint x="79" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="uTGRWmH2HDZThDK5jOEu-33" value="start/stop" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-800.0033333333334" y="480" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
