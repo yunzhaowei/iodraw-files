@@ -24,7 +24,7 @@
         </mxCell>
         <mxCell id="WG0FP-cM06WGUd5yMOQC-1" value="请求开始音频推送（推流地址，认证信息等）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="77e6c97f196da883-26">
           <mxGeometry x="-0.2817" y="2" relative="1" as="geometry">
-            <mxPoint x="34" y="-13" as="offset" />
+            <mxPoint x="34" y="-28" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="77e6c97f196da883-28" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8" parent="77e6c97f196da883-1" source="77e6c97f196da883-9" target="77e6c97f196da883-12" edge="1">
@@ -176,7 +176,7 @@
         </mxCell>
         <mxCell id="WG0FP-cM06WGUd5yMOQC-4" value="转发请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WG0FP-cM06WGUd5yMOQC-3">
           <mxGeometry x="-0.2762" y="-1" relative="1" as="geometry">
-            <mxPoint x="15" y="-16" as="offset" />
+            <mxPoint x="15" y="-31" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WG0FP-cM06WGUd5yMOQC-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-1" source="WG0FP-cM06WGUd5yMOQC-2" target="WG0FP-cM06WGUd5yMOQC-5">
@@ -184,7 +184,7 @@
         </mxCell>
         <mxCell id="WG0FP-cM06WGUd5yMOQC-7" value="创建、开始推流" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WG0FP-cM06WGUd5yMOQC-6">
           <mxGeometry x="-0.419" y="2" relative="1" as="geometry">
-            <mxPoint x="17" y="-43" as="offset" />
+            <mxPoint x="20" y="-33" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
