@@ -171,6 +171,11 @@
         <mxCell id="WG0FP-cM06WGUd5yMOQC-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-1" source="77e6c97f196da883-11" target="WG0FP-cM06WGUd5yMOQC-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="WG0FP-cM06WGUd5yMOQC-4" value="转发请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WG0FP-cM06WGUd5yMOQC-3">
+          <mxGeometry x="-0.2762" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
