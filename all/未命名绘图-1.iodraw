@@ -49,24 +49,14 @@
         <mxCell id="F_h1a_EpNOREKF0RTXVA-14" value="http post" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-670" y="820" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uTGRWmH2HDZThDK5jOEu-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uTGRWmH2HDZThDK5jOEu-1" target="uTGRWmH2HDZThDK5jOEu-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="uTGRWmH2HDZThDK5jOEu-1" value="&lt;b&gt;supv-task&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-800" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="-800" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uTGRWmH2HDZThDK5jOEu-2" value="&lt;b&gt;conf-1&lt;br&gt;cloud-attendee-converter&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1330" y="655" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uTGRWmH2HDZThDK5jOEu-3" value="&lt;strong class=&quot;&quot; data-v-46d91a25=&quot;&quot;&gt;WebSocket Server&lt;/strong&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1345" y="270" width="230" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="uTGRWmH2HDZThDK5jOEu-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="uTGRWmH2HDZThDK5jOEu-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-600" y="510" as="targetPoint" />
-            <mxPoint x="-240" y="430" as="sourcePoint" />
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="uTGRWmH2HDZThDK5jOEu-4" value="&lt;b&gt;conf-n&lt;br&gt;cloud-attendee-converter&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-820" y="370" width="160" height="60" as="geometry" />
@@ -79,9 +69,6 @@
         </mxCell>
         <mxCell id="uTGRWmH2HDZThDK5jOEu-10" value="start/stop/callback" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1550" y="440" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="uTGRWmH2HDZThDK5jOEu-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.82;entryY=1.053;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uTGRWmH2HDZThDK5jOEu-4" target="uTGRWmH2HDZThDK5jOEu-3">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uTGRWmH2HDZThDK5jOEu-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.18;entryY=1.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uTGRWmH2HDZThDK5jOEu-2" target="uTGRWmH2HDZThDK5jOEu-3">
           <mxGeometry relative="1" as="geometry" />
