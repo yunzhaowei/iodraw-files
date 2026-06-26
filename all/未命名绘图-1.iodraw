@@ -63,7 +63,7 @@
         <mxCell id="uTGRWmH2HDZThDK5jOEu-1" value="&lt;b&gt;supv-task&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-800" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uTGRWmH2HDZThDK5jOEu-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.409;entryY=1.036;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uTGRWmH2HDZThDK5jOEu-2" target="uTGRWmH2HDZThDK5jOEu-3">
+        <mxCell id="uTGRWmH2HDZThDK5jOEu-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.409;entryY=1.036;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uTGRWmH2HDZThDK5jOEu-2" target="uTGRWmH2HDZThDK5jOEu-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1230" y="330" as="targetPoint" />
           </mxGeometry>
@@ -118,7 +118,7 @@
           <mxGeometry x="-800.0033333333334" y="480" as="geometry" />
         </mxCell>
         <mxCell id="uTGRWmH2HDZThDK5jOEu-37" value="push audio data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1115.0033333333336" y="490" as="geometry" />
+          <mxGeometry x="-1196.0033333333336" y="497" as="geometry" />
         </mxCell>
         <mxCell id="uTGRWmH2HDZThDK5jOEu-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;elbow=vertical;curved=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uTGRWmH2HDZThDK5jOEu-27" target="uTGRWmH2HDZThDK5jOEu-20">
           <mxGeometry relative="1" as="geometry">
