@@ -49,8 +49,11 @@
         <mxCell id="F_h1a_EpNOREKF0RTXVA-14" value="http post" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-535" y="311" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uTGRWmH2HDZThDK5jOEu-0" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="uTGRWmH2HDZThDK5jOEu-0" value="&lt;strong class=&quot;&quot; data-v-46d91a25=&quot;&quot;&gt;REST API Server&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-320" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uTGRWmH2HDZThDK5jOEu-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-200" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
