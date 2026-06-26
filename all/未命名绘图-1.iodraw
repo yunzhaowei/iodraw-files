@@ -95,7 +95,7 @@
             <mxPoint x="25" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uTGRWmH2HDZThDK5jOEu-20" value="&lt;strong class=&quot;&quot; data-v-46d91a25=&quot;&quot;&gt;REST API Server&lt;/strong&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="uTGRWmH2HDZThDK5jOEu-20" value="&lt;strong class=&quot;&quot; data-v-46d91a25=&quot;&quot;&gt;REST API Server&lt;/strong&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-830" y="100" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uTGRWmH2HDZThDK5jOEu-27" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
