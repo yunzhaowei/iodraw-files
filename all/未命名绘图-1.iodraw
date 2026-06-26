@@ -62,7 +62,7 @@
           <mxGeometry x="-800" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uTGRWmH2HDZThDK5jOEu-2" value="&lt;b&gt;conf-1&lt;br&gt;cloud-attendee-converter&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-600" y="320" width="170" height="60" as="geometry" />
+          <mxGeometry x="-600" y="320" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uTGRWmH2HDZThDK5jOEu-3" value="&lt;strong class=&quot;&quot; data-v-46d91a25=&quot;&quot;&gt;WebSocket Server&lt;/strong&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-600" y="200" width="440" height="60" as="geometry" />
@@ -88,7 +88,7 @@
         <mxCell id="uTGRWmH2HDZThDK5jOEu-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.82;entryY=1.053;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uTGRWmH2HDZThDK5jOEu-4" target="uTGRWmH2HDZThDK5jOEu-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uTGRWmH2HDZThDK5jOEu-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.184;entryY=1.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uTGRWmH2HDZThDK5jOEu-2" target="uTGRWmH2HDZThDK5jOEu-3">
+        <mxCell id="uTGRWmH2HDZThDK5jOEu-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.18;entryY=1.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uTGRWmH2HDZThDK5jOEu-2" target="uTGRWmH2HDZThDK5jOEu-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
