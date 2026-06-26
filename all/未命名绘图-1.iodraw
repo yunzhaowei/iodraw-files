@@ -61,6 +61,9 @@
         <mxCell id="uTGRWmH2HDZThDK5jOEu-3" value="&lt;strong class=&quot;&quot; data-v-46d91a25=&quot;&quot;&gt;WebSocket Server&lt;/strong&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-280" y="120" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="uTGRWmH2HDZThDK5jOEu-4" value="&lt;b&gt;conf-n&lt;br&gt;cloud-attendee-converter&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-310" y="240" width="160" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
