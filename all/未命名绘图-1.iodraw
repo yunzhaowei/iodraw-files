@@ -53,13 +53,13 @@
           <mxGeometry x="-800" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uTGRWmH2HDZThDK5jOEu-1" value="&lt;b&gt;supv-task&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-790" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="-800" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uTGRWmH2HDZThDK5jOEu-2" value="&lt;b&gt;conf-1&lt;br&gt;cloud-attendee-converter&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-620" y="240" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uTGRWmH2HDZThDK5jOEu-3" value="&lt;strong class=&quot;&quot; data-v-46d91a25=&quot;&quot;&gt;WebSocket Server&lt;/strong&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-280" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="-280" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
