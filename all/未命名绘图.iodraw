@@ -20,7 +20,7 @@
           <mxGeometry x="520" y="460" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="t2-_fB_VWRrWD6PR-hT3-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="130" y="280" width="30" height="180" as="geometry" />
+          <mxGeometry x="370" y="630" width="30" height="180" as="geometry" />
         </mxCell>
         <mxCell id="t2-_fB_VWRrWD6PR-hT3-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="590" y="350" width="60" height="110" as="geometry" />
@@ -28,11 +28,8 @@
         <mxCell id="t2-_fB_VWRrWD6PR-hT3-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="420" y="420" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="t2-_fB_VWRrWD6PR-hT3-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310" y="200" width="270" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="t2-_fB_VWRrWD6PR-hT3-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="230" y="340" width="70" height="120" as="geometry" />
+          <mxGeometry x="180" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
